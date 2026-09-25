@@ -467,3 +467,4 @@ print(arr[:-4])#[1]
 print(arr[::-1])#[4,2,3,2,1]
 print(arr.index(2))#1
 ->sorting and reversing
+addition
